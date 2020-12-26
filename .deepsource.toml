@@ -4,5 +4,5 @@ version = 1
 name = "java"
 enabled = true
 
-  [analyzers.meta]
+  [analyzers.metal]
   runtime_version = "8"
