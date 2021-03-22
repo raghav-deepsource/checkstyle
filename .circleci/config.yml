@@ -2,7 +2,7 @@ version: 2
 jobs:
 
   build-caches:
-    machine: true
+    machine: true 
     steps:
       # restore_cache.keys does not work, so multiple restore_cache.key is used
       - restore_cache:
